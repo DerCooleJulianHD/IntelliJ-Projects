@@ -1,0 +1,10 @@
+name: SimpleMenuReloaded
+version: 1.0
+author: DerCooleJulianHD
+main: de.dercoolejulianhd.simplemenus.Main
+
+commands:
+  createmenu:
+    permission: '*'
+  openmenu:
+    description: Opens a Existing Menu.
